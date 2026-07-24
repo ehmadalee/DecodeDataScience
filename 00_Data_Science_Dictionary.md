@@ -1,4 +1,4 @@
-# 📊 Data Science & Pandas Glossary
+# Data Science & Pandas Glossary
 
 A simple, beginner-friendly glossary of key terms used in data analysis, Pandas, and NumPy.
 
